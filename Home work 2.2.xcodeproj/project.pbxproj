@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F551A375290E871700A2DA42 /* United Kindom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F551A374290E871700A2DA42 /* United Kindom.swift */; };
 		F5917C3F29097ED700D60D32 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5917C3E29097ED700D60D32 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F551A374290E871700A2DA42 /* United Kindom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "United Kindom.swift"; sourceTree = "<group>"; };
 		F5917C3B29097ED700D60D32 /* Home work 2.2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Home work 2.2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5917C3E29097ED700D60D32 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				F5917C3E29097ED700D60D32 /* main.swift */,
+				F551A374290E871700A2DA42 /* United Kindom.swift */,
 			);
 			path = "Home work 2.2";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5917C3F29097ED700D60D32 /* main.swift in Sources */,
+				F551A375290E871700A2DA42 /* United Kindom.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
